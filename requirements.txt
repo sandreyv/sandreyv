@@ -1,0 +1,8 @@
+# Многоагентная система для анализа и редактирования текстов
+# Requirements
+
+# Anthropic Claude API
+anthropic>=0.39.0
+
+# Дополнительные зависимости
+python-dotenv>=1.0.0
