@@ -7,8 +7,8 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-from core.coordinator import AgentCoordinator
-from agents import (
+from .core.coordinator import AgentCoordinator
+from .agents import (
     MetaAgent,
     TextureAnalyzer1,
     TextureAnalyzer2,
